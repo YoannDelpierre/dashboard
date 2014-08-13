@@ -1,4 +1,4 @@
-dashboard-real-estate
+Real Estate App
 =====================
 
 A dashboard prototype for a real estate app
